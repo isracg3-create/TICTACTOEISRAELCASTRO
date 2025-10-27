@@ -75,17 +75,20 @@ VICTORIA POR LÍNEA DIAGONAL (Jugador X gana):
   ---+---+---
      |     |  X  
 
+
 >>> ¡EL JUGADOR 'X' HA GANADO! <<<
 
 ===========================================
 
 PARTIDA EMPATADA (No hay ganador):
 
+
   X  |  O  |  X  
   ---+---+---
   X  |  X  |  O  
   ---+---+---
   O  |  X  |  O  
+
 
 >>> ¡EMPATE! <<<
 
